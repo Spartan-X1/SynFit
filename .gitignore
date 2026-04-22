@@ -1,0 +1,53 @@
+# Environment
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Data files (too large for git, contain synthetic PII-like content)
+*.jsonl
+*.parquet
+training_with_resumes/
+preview*/
+generated_resumes*
+llm_resume_*
+prompts_*
+retried_resumes*
+ids_to_rerun.json
+fresh_naukri_jds*
+
+# Model artifacts
+qwen_resume_ranker*/
+*.safetensors
+*.bin
+*.pt
+*.pth
+checkpoint-*/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Notebook outputs
+.ipynb_checkpoints/
+
+# Logs
+*.log
+nohup.out
