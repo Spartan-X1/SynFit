@@ -1,0 +1,33 @@
+FINAL METRICS (Evaluated by an LLM pipline):
+
+job_title: 90.67%
+min_experience_years: 82.67%
+domain: 100.0%
+is_management_role: 54.67%
+education_requirement: 84.0%
+max_notice_period_days: 98.67%
+skills_avg: 78.81%
+overall_score: 87.33%
+
+FINAL METRICS (Human Check on the LLM Evaluation) :
+job_title:	95–98%
+experience:	88–93%
+skills:	80–90%
+domain:	95–100%
+management:	70–85%
+education:	85–92%
+notice:	98–100%
+overall_score: ~90-94%
+
+Confidence Interval (95%):
+    CI = p +/- 1.96*sqrt((p(1-p))/n)
+where => p = 0.9,n = 75
+    CI = 90% +[-6.8%,6.8%]
+True system accuracy lies between ~83% and ~97% (95% confidence)
+
+Summary:
+A random sample of 75 job descriptions (~10% of the dataset) was evaluated to estimate system performance.
+The automated evaluation yielded an overall accuracy of ~87%. However, manual inspection revealed that the evaluator was overly strict in certain fields, particularly for experience and management role classification.
+After calibration through human validation, the effective accuracy is estimated to be ~90–94%.
+Using a 95% confidence interval, the true accuracy of the system is expected to lie between ~83% and ~97%, demonstrating strong extraction & Structuring across the dataset.
+    

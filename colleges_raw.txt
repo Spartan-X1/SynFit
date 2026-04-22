@@ -1,0 +1,660 @@
+Institution Name, Tier
+Acharya Nagarjuna University Tier 1
+Alagappa University Tier 1
+Aligarh Muslim University AMU Tier 1
+All India Institute of Medical Sciences (AIIMS) Bhopal Tier 1
+All India Institute of Medical Sciences (AIIMS) Bhubaneswar Tier 1
+All India Institute of Medical Sciences (AIIMS) Jodhpur Tier 1
+All India Institute of Medical Sciences (AIIMS) New Delhi Tier 1
+All India Institute of Medical Sciences (AIIMS) Patna Tier 1
+All India Institute of Medical Sciences (AIIMS) Raipur Tier 1
+All India Institute of Medical Sciences (AIIMS) Rishikesh Tier 1
+Amrita Vishwa Vidyapeetham, Coimbatore Tier 1
+Andhra University Waltair Visakhapatnam Tier 1
+Annamalai University Tier 1
+Anna University, Chennai Tier 1
+Anna University, Coimbatore Tier 1
+Anna University, Tiruchirappalli Tier 1
+Anna University, Tirunelveli Tier 1
+Babasaheb Bhimrao Ambedkar University, Lucknow Tier 1
+Banaras Hindu University (BHU) Tier 1
+Banasthali Vidyapith Tier 1
+Bangalore University (BU) Tier 1
+Berhampur University Tier 1
+Bharathiar University Tier 1
+Bharathidasan University Tier 1
+Bharath Institute of Higher Education and Research (BIHER), Chennai Tier 1
+Bharath Institute of Higher Education and Research (BIHER) Tier 1
+Bharati Vidyapeeth Tier 1
+Birla Institute of Technology & Science (BITS Pilani) Tier 1
+B.S. Abdur Rahman Crescent Institute of Science and Technology, Chennai Tier 1
+B.S. Abdur Rahman Crescent Institute of Science and Technology Tier 1
+Central Institute of Fisheries Education (CIFE), Mumbai Tier 1
+Central Institute of Higher Tibetan Studies (CIHTS) Tier 1
+Central Institute of Technology, Kokrajhar (CITK) Tier 1
+Centurion University of Technology and Management, Paralakhemundi Tier 1
+Charotar University of Science and Technology (CHARUSAT) Tier 1
+Chennai Mathematical Institute (CMI) Tier 1
+Chettinad Academy of Research and Education (CARE) Tier 1
+Christ University, Bangalore Tier 1
+Cochin University of Science and Technology, Kochi Tier 1
+Datta Meghe Institute of Medical Sciences, Nagpur Tier 1
+Dayalbagh Educational Institute, Dayalbagh, Agra Tier 1
+Deen Bandhu Chhotu Ram University of Science and Technology (DCRUST), Murthal Tier 1
+Devi Ahilya Vishwavidyalaya (DAVV), Indore Tier 1
+Devi Ahilya Vishwavidyalaya (DAVV) Tier 1
+Directorate of Technical Education, Assam Tier 1
+Dr. Babasaheb Ambedkar Marathwada University (BAMU), Aurangabad Tier 1
+Dr. D. Y. Patil Vidyapeeth, Pune Tier 1
+Dr. Hari Singh Gour Vishwavidyalaya, Sagar Tier 1
+Dr. M.G.R. Educational and Research Institute, Chennai Tier 1
+Gandhigram Rural Institute (GRI), Dindigul Tier 1
+Gandhi Institute of Technology and Management - GITAM (Deemed to be University), VisakhapatnamTier 1
+GLA University, Mathura Tier 1
+Gokhale Institute of Politics and Economics, Pune Tier 1
+Gujarat Ayurved University, Jamnagar Tier 1
+Gujarat Forensic Sciences University, Gandhinagar Tier 1
+Gujarat National Law University (GNLU), Gandhinagar Tier 1
+Gujarat Vidyapith, Ahmedabad Tier 1
+Guru Gobind Singh Indraprastha University, Delhi Tier 1
+Guru Jambheshwar University of Science and Technology, Hisar Tier 1
+Guru Nanak Dev University (G.N.D.U.), Amritsar Tier 1
+Hemchandracharya North Gujarat University (HNGU), Patan Tier 1
+Hemvati Nandan Bahuguna Garhwal University, Srinagar Tier 1
+Himachal Pradesh University (HPU), Shimla Tier 1
+Hindustan Institute of Technology & Science (HITS), Padur Tier 1
+Homi Bhabha National Institute (HBNI), Mumbai Tier 1
+ICFAI Foundation for Higher Education, Hyderabad Tier 1
+Indian Agricultural Research Institute ((IARI), New Delhi Tier 1
+Indian Institute of Foreign Trade (IIFT), New Delhi Tier 1
+Indian Institute of Information Technology, Allahabad (IIIT-Allahabad) Tier 1
+Indian Institute of Information Technology, Design and Manufacturing, Kurnool Tier 1
+Indian Institute of Information Technology Design & Manufacturing Kancheepuram Tier 1
+Indian Institute of Information Technology, Dharwad Tier 1
+Indian Institute of Information Technology, Guwahati Tier 1
+Indian Institute of Information Technology, Kalyani Tier 1
+Indian Institute of Information Technology, Kota Tier 1
+Indian Institute of Information Technology, Kottayam Tier 1
+Indian Institute of Information Technology, Lucknow Tier 1
+Indian Institute of Information Technology, Nagpur Tier 1
+Indian Institute of Information Technology, Pune Tier 1
+Indian Institute of Information Technology, Ranchi Tier 1
+Indian Institute of Information Technology, Senapati Tier 1
+Indian Institute of Information Technology, Sonepat Tier 1
+Indian Institute of Information Technology, Sri City, Chittoor (IIIT Sri City (IIITS)) Tier 1
+Indian Institute of Information Technology, Tiruchirapalli Tier 1
+Indian Institute of Information Technology, Una (IIIT, Una) Tier 1
+Indian Institute of Information Technology, Vadodara Tier 1
+Indian Institute of Science, Bangalore (IISc) Tier 1
+Indian Institute of Technology Bhubaneswar Tier 1
+Indian Institute of Technology, Bombay Tier 1
+Indian Institute of Technology, Chennai Tier 1
+Indian Institute of Technology, Delhi (IIT Delhi) Tier 1
+Indian Institute of Technology, Dhanbad Tier 1
+Indian Institute of Technology Dharwad Tier 1
+Indian Institute of Technology Gandhinagar Tier 1
+Indian Institute of Technology Goa (IIT Goa) Tier 1
+Indian Institute of Technology, Guwahati (IITG) Tier 1
+Indian Institute of Technology Hyderabad Tier 1
+Indian Institute of Technology (IIT) Bhilai Tier 1
+Indian Institute of Technology Indore Tier 1
+Indian Institute of Technology Jammu (IIT Jammu) Tier 1
+Indian Institute of Technology, Kanpur (IIT Kanpur) Tier 1
+Indian Institute of Technology, Kharagpur (IIT Kharagpur) Tier 1
+Indian Institute of Technology Mandi (IIT Mandi) Tier 1
+Indian Institute of Technology Palakkad Tier 1
+Indian Institute of Technology Patna (IIT Patna or IITP) Tier 1
+Indian Institute of Technology Punjab Tier 1
+Indian Institute of Technology Rajasthan Tier 1
+Indian Institute of Technology Roorkee (IIT Roorkee or IITR) Tier 1
+Indian Institute of Technology Tirupati Tier 1
+Indian Institute of Technology Varanasi Tier 1
+Indian Law Institute (ILI), Delhi Tier 1
+Indian Statistical Institute (ISI), Kolkata Tier 1
+Indraprastha Institute of Information Technology, Delhi Tier 1
+Institute of Chemical Technology (ICT), Mumbai Tier 1
+Institute of Liver and Biliary Sciences (ILBS), New Delhi Tier 1
+International Institute of Information Technology, Bangalore Tier 1
+Jadavpur University, Kolkata Tier 1
+Jain University, Bangalore Tier 1
+Jain Vishva Bharati Institute (JVBI), Ladnun Tier 1
+Jamia Hamdard, New Delhi Tier 1
+Jamia Millia Islamia (JMI), New Delhi Tier 1
+Janardan Rai nagar Rajasthan Vidyapeeth, Udaipur Tier 1
+Jawaharlal Institute of Postgraduate Medical Education and Research (JIPMER) Tier 1
+Jawaharlal Nehru Centre for Advanced Scientific Research, Bangalore (JNCASR) Tier 1
+Jawaharlal Nehru Technological University Hyderabad (JNTU Hyderabad) Tier 1
+Jawaharlal Nehru University (JNU) Tier 1
+Jaypee University of Engineering and Technology Tier 1
+Jiwaji University, Gwalior (JU) Tier 1
+Kakatiya University, Warangal Tier 1
+Kalasalingam University, Krishnankoil Tier 1
+Karnataka State Law University (KSLU) Tier 1
+Karnatak University Tier 1
+Krishna Institute of Medical Sciences, Satara Tier 1
+Kurukshetra University Tier 1
+Lakshmibai National Institute of Physical Education (LNIPE) Tier 1
+Madurai Kamaraj University (MKU) Tier 1
+Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya, Wardha Tier 1
+Mahatma Gandhi Chitrakoot Gramodaya Vishwavidyalaya (MGCGV) Tier 1
+Mahatma Gandhi University, Kerala Tier 1
+Manipur University Tier 1
+Manipal University, Manipal Tier 1
+Maulana Azad National Institute of Technology Bhopal (M.P) India (MANIT) Tier 1
+Maulana Azad National Urdu University Tier 1
+Mizoram University Tier 1
+Narsee Monjee Institute of Management Studies, Mumbai Tier 1
+National Academy of Legal Studies and Research University, Hyderabad Tier 1
+National Institute of Technology, Rourkela (NITR) Tier 1
+National Law School of India University, Bangalore Tier 1
+National Law University, Cuttack Tier 1
+National Law University, Delhi Tier 1
+Nirma University (NU) Tier 1
+NITTE University, Mangalore Tier 1
+Noorul Islam Centre for Higher Education Tier 1
+North Eastern Hill University (NEHU) Tier 1
+North Maharashtra University, Jalgaon Tier 1
+O.P Jindal Global University, Sonipat Tier 1
+Osmania University Tier 1
+Padmashree Dt. DY Patil Vidyapeeth, Mumbai Tier 1
+Pandit Deendayal Petroleum University, Gandhinagar Tier 1
+Pandit Ravishankar Shukla University Tier 1
+Periyar University Tier 1
+Pondicherry University Tier 1
+Pravara Institute of Medical Sciences (Deemed to be University) Tier 1
+Presidency University, Kolkata Tier 1
+Rabindra Bharati University Tier 1
+Rajiv Gandhi Institute of Petroleum Technology, Jais Amethi (RGIPT) Tier 1
+Rajiv Gandhi National University of Law, Punjab (RGNUL) Tier 1
+Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal (RGPV) Tier 1
+Rashtrasant Takadoji Maharaj Nagpur University (RTMNU) Tier 1
+Rashtriya Sanskrit Vidyapeeth, Tirupati Tier 1
+Ravenshaw University Tier 1
+Sambalpur University Tier 1
+Sant Gadge Baba Amravati University Tier 1
+Sardar Patel University (SPU) Tier 1
+Sathyabama University, Chennai Tier 1
+Saveetha Institute of Medical and Technical Sciences (SIST) Tier 1
+Savitribai Phule Pune University (SPPU) Tier 1
+Shanmugha Arts, Science, Technology & Research Academy (SASTRA) Tier 1
+Shiv Nadar University (SNU) Tier 1
+Shivaji University Tier 1
+Shreemati Nathibai Damodar Thackersey Women's University, Mumbai (SNDT Women's University) Tier 1
+Shri Lal Bahadur Shastri Rashtriya Sanskrit Vidyapeetha Tier 1
+Siksha 'O' Anusandhan (SOA) Tier 1
+S.P. Jain School of Global Management Tier 1
+Sree Chitra Tirunal Institute for Medical Sciences and Technology (SCTIMST) Tier 1
+Sri Balaji Vidyapeeth, Pillaiyarkuppam Tier 1
+Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya (SCSVMV) Tier 1
+Sri Padmavati Mahila Visvavidyalayam SPMVV, Tirupati Tier 1
+Sri Ramachandra University Tier 1
+Sri Siddhartha Academy of Higher Education (SSAHE) Tier 1
+Sumandeep Vidyapeeth (Sumandeep Vidyapeeth University) Tier 1
+Suresh Gyan Vihar University (SGVU) Tier 1
+Swami Vivekananda Yoga Anusandhana Samsthana Tier 1
+Swami Vivekanand Subharti University (SVSU) Tier 1
+Symbiosis International University Tier 1
+Tata Institute of Fundamental Research (TIFR) Tier 1
+Tata Institute of Social Sciences (TISS) Tier 1
+Tezpur University Tier 1
+University of Burdwan Tier 1
+University of Calcutta Tier 1
+University of Calicut Tier 1
+University of Delhi (DU) Tier 1
+University of Hyderabad (UoH) Tier 1
+University of Jammu Tier 1
+University of Kalyani (KU) Tier 1
+University of Kashmir Tier 1
+University of Kerala Tier 1
+University of Madras Tier 1
+University of Mumbai Tier 1
+University of Mysore Tier 1
+University of North Bengal (NBU) Tier 1
+University of Rajasthan Tier 1
+Utkal University Tier 1
+Veer Narmad South Gujarat University Tier 1
+Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology Tier 1
+Vikram University Tier 1
+Vignan University, Guntur Tier 1
+VIT (Vellore Institute of Technology) Tier 1
+Yenepoya University, Bangalore Tier 1
+YMCA University of Science and Technology, Faridabad Tier 1
+AMET (Academy of Maritime Education and Training) Tier 2
+Academy of Scientic & Innovative Research (AcSIR) Tier 2
+Acharya N G Ranga Agricultural University, Hyderabad Tier 2
+Amity University, Jaipur Tier 2
+Amity University, Noida Tier 2
+Anand Agricultural University Tier 2
+Atal Bihari Vajpayee Hindi Vishwavidyalaya, Bhopal Tier 2
+Atal Bihari Vajpayee Indian Institute of Information Technology and Management, Gwalior (ABV-IIITM Gwalior)Tier 2
+Assam Agricultural University, Jorhat Tier 2
+Assam Don Bosco University Tier 2
+Assam University Tier 2
+Avinashilingam Institute for Home Science and Higher Education for Women Tier 2
+Awadhesh Pratap Singh University Tier 2
+B.L.D.E University, Bijapur Tier 2
+Babasaheb Bhimrao Ambedkar Bihar University, Muzaffarpur Tier 2
+Barkatullah University Tier 2
+Bengal Engineering & Science University Tier 2
+Bharat Ratna Dr B.R. Ambedkar University, Delhi Tier 2
+Bidhan Chandra Krishi Vishwavidyalaya (BCKV) Tier 2
+Birla Institute of Technology, Ranchi Tier 2
+Birsa Agricultural University (BAU) Tier 2
+Bundelkhand University Tier 2
+Central Agricultural University (CAU), Imphal Tier 2
+Central University of Gujarat (CUG) Tier 2
+Central University of Haryana (CUH) Tier 2
+Central University of Himachal Pradesh Tier 2
+Central University of Jammu Tier 2
+Central University of Jharkhand (CUJ) Tier 2
+Central University of Karnataka (CUK) Tier 2
+Central University of Kashmir Tier 2
+Central University of Kerala (CUK) Tier 2
+Central University of Orissa Tier 2
+Central University of Punjab Tier 2
+Central University of Rajasthan (CURAJ) Tier 2
+Central University of South Bihar (CUSB) Tier 2
+Central University of Tamil Nadu (CUTN) Tier 2
+Chaudhary Charan Singh Haryana Agricultural University, Hisar Tier 2
+Chaudhary Charan Singh University, Meerut Tier 2
+Chaudhary Devi Lal University (CDLU) Tier 2
+Chaudhary Sarwan Kumar Himachal Pradesh Krishi Vishwavidyalaya Tier 2
+Chhatrapati Shahu Ji Maharaj Kanpur University Tier 2
+Chitkara University Tier 2
+Davangere University Tier 2
+Dakshina Bharat Hindi Prachar Sabha, Chennai Tier 2
+Deccan College Post Graduate & Research Institute Tier 2
+Deendayal Upadhyaya Gorakhpur University Tier 2
+Defence Institute of Advanced Technology (DIAT) Tier 2
+Dev Sanskriti Vishwavidyalaya (DSVV) Tier 2
+Dharmsinh Desai University (DDU) Tier 2
+Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT) Tier 2
+Dibrugarh University Tier 2
+Doon University Tier 2
+Dr B R Ambedkar National Institute of Technology Jalandhar (NIT Jalandhar or NITJ) Tier 2
+Dr. Babasaheb Ambedkar Technological University (DBATU) Tier 2
+Dr. Bhimrao Ambedkar University, Agra (Dr. B.R. Ambedkar University, Agra) Tier 2
+Dr. C.V. Raman University Tier 2
+Dr. N.T.R. University of Health Sciences Tier 2
+Dr. Yashwant Singh Parmar University of Horticulture and Forestry Tier 2
+English and Foreign Languages University (EFLU) Tier 2
+Fakir Mohan University Tier 2
+Forest Research Institute (FRI) Tier 2
+Footwear Design & Development Institute Tier 2
+Gauhati University Tier 2
+Goa University, Taleigao Plateau Tier 2
+Graphic Era University Tier 2
+Gujarat University, Ahmedabad Tier 2
+Gulbarga University Tier 2
+Guru Angad Dev Veterinary and Animal Sciences University (GADVASU) Tier 2
+Guru Ghasidas Vishwavidyalaya, Bilaspur (GGU) Tier 2
+Gurukula Kangri Vishwavidyalaya, Hardwar Tier 2
+Himachal Pradesh Board of Technical Education Tier 2
+IFTM University (Institute of Foreign Trade and Management) Tier 2
+I.I.S. University Tier 2
+I.K. Gujral Punjab Technical University (IKGPTU) Tier 2
+Indian Maritime University (IMU) Tier 2
+Indian Institute of Engineering Science and Technology, Shibpur Tier 2
+Indian Institute of Science Education and Research Bhopal Tier 2
+Indian Institute of Science Education and Research Kolkata Tier 2
+Indian Institute of Science Education and Research Pune Tier 2
+Indian Institute of Science Education and Research Thiruvananthapuram Tier 2
+Indian Institute of Science Education and Research Tirupati Tier 2
+Indian Institute of Science Education & Research (IISER) Mohali Tier 2
+Indian Veterinary Research Institute (IVRI), Izatnagar Tier 2
+Indira Gandhi Institute of Development Research (IGIDR), Mumbai Tier 2
+Indira Kala Sangit Vishwavidyalaya (IKSV), Khairagarh Tier 2
+Indira Gandhi National Open University (IGNOU) Tier 2
+Indira Gandhi National Tribal University, Amarkantak Tier 2
+Integral University Tier 2
+International Institute for Population Sciences (IIPS) Tier 2
+International Institute of Information Technology Tier 2
+Islamic University of Science and Technology Tier 2
+Jagan Nath University Tier 2
+Jai Narain Vyas University, Jodhpur (JNVU) Tier 2
+Jaipur National University Tier 2
+Jawaharlal Nehru Technological University Anantapur (JNTU) Tier 2
+Jawaharlal Nehru Technological University Kakinada (JNTU Kakinada) Tier 2
+Jaypee Institute of Information Technology Tier 2
+Jaypee University of Information Technology Tier 2
+Junagadh Agricultural University (JAU) Tier 2
+Kalinga Institute of Industrial Technology (KIIT) Tier 2
+Kameshwar Singh Darbhanga Sanskrit University (KSDSU) Tier 2
+Kannada University Tier 2
+Kumaun University Tier 2
+Kannur University Tier 2
+Karnataka State Women's University Tier 2
+Karpagam Academy of Higher Education Tier 2
+Kavikulguru Kalidas Sanskrit University (KKSU) Tier 2
+Kerala Agricultural University (KAU) Tier 2
+Kuvempu University Tier 2
+Lalit Narayan Mithila University (LNMU) Tier 2
+Lingaya University Tier 2
+LNM Institute of Information Technology (LNMIIT) Tier 2
+Maharaja Sayajirao University of Baroda Tier 2
+Maharishi Markandeshwar Education Trust Tier 2
+Malaviya National Institute of Technology Jaipur (MNIT) Tier 2
+Mangalore University (MU) Tier 2
+Maharaja Krishnakumarsinhji Bhavnagar University Tier 2
+Maharaja Ranjit Singh Punjab Technical University, Bathinda (MRSPTU) Tier 2
+Maharana Pratap University of Agriculture and Technology, Udaipur Tier 2
+Maharashtra Animal & Fishery Sciences University (MAFSU) Tier 2
+Maharashtra University of Health Sciences (MUHS), Nahsik Tier 2
+Maharishi Markandeshwar University, Sadopur-Ambala (MMU Sadopur) Tier 2
+Maharshi Dayanand Saraswati University, Ajmer Tier 2
+Maharshi Dayanand University (M.D. University), Rohtak Tier 2
+Mahatma Gandhi Central University (MGCU), Patna Tier 2
+Mahatma Gandhi Kashi Vidyapeeth (also known as Mahatma Gandhi Kashi Vidyapith) Tier 2
+Mahatma Gandhi University, Nalgonda Tier 2
+Mahatma Jyotiba Phule Rohilkhand University, Bareilly Tier 2
+Manav Bharti University Tier 2
+Manonmaniam Sundaranar University Tier 2
+Maulana Abul Kalam Azad University of Technology, West Bengal Tier 2
+MGM Institute of Health Sciences Tier 2
+Mohanlal Sukhadia University Tier 2
+Motilal Nehru National Institutie of Technology, Allahabad Tier 2
+Mother Teresa Women's University, Kodaikanal Tier 2
+Nagaland University Tier 2
+National Dairy Research Institute (NDRI) Tier 2
+National Institute of Fashion Technology (NIFT) Tier 2
+National Law Institute University, Bhopal Tier 2
+National Law University, Jodhpur Tier 2
+National Museum Institute of History of Art, Conservation and Museology (NMIHACM) Tier 2
+National Brain Research Centre Tier 2
+National Institute of Foundry and Forge Technology Tier 2
+National Institute of Mental Health and Neuro Sciences Tier 2
+National Institute of Pharmaceutical Education and Research Tier 2
+National Institute of Technical Teachers' Training and Research, Bhopal Tier 2
+National Institute of Technical Teachers' Training and Research, Chandigarh Tier 2
+National Institute of Technical Teachers' Training and Research, Chennai Tier 2
+National Institute of Technical Teachers' Training and Research,Kolkata Tier 2
+National Institute of Technology Agartala (NITA) Tier 2
+National Institute of Technology, Aizawal Tier 2
+National Institute of Technology Andhra Pradesh Tier 2
+National Institute of Technology, Arunachal Pradesh Tier 2
+National Institute of Technology, Calicut (NITC) Tier 2
+National Institute of Technology Delhi (NITD) Tier 2
+National Institute of Technology, Dimapur Tier 2
+National Institute of Technology, Durgapur (NITDGP) Tier 2
+National Institute of Technology Goa (NITG) Tier 2
+National Institute of Technology, Hamirpur (NITH) Tier 2
+National Institute of Technology, Imphal Tier 2
+National Institute of Technology, Jamshedpur (NITJSR) Tier 2
+National Institute of Technology, Kurukshetra ( NITKKR) Tier 2
+National Institute of Technology, Mindi Tier 2
+National Institute of Technology, Papum Pare Tier 2
+National Institute of Technology Patna (NITP) Tier 2
+National Institute of Technology, Puducherry (NITPY) Tier 2
+National Institute of Technology, Raipur (NITRR) Tier 2
+National Institute of Technology, Ravangla Tier 2
+National Institute of Technology, Shillong Tier 2
+National Institute of Technology, Silchar (NITS) Tier 2
+National Institute of Technology, Srinagar (NITSRI) Tier 2
+National Institute of Technology, Surathkal Tier 2
+National Institute of Technology, Tiruchirappalli (NITT) Tier 2
+National Institute of Technology, Warangal Tier 2
+Navsari Agricultural University Tier 2
+Nizam's Institute of Medical Sciences (NIMS) Tier 2
+Orissa University of Agriculture and Technology (OUAT) Tier 2
+Pandit Dwarka Prasad Mishra Indian Institutie of Information Technology, Design and manufacturingTier 2
+Panjab University (PU) Tier 2
+Postgraduate Institute of Medical Education and Research (PGIMER) Tier 2
+Punjab Agricultural University (PAU) Tier 2
+Punjabi University Tier 2
+Patna University Tier 2
+Periyar Maniammai Institute of Science and Technology Tier 2
+Ponnaiyah Ramajayam Institute of Science and Technology (PRIST) Tier 2
+Punjab Engineering College (Deemed To Be University), Chandigarh Tier 2
+Rajasthan Agricultural University, Bikaner Tier 2
+Rajiv Gandhi National Aviation University (RGNAU) Tier 2
+Rajiv Gandhi University of Health Sciences, Karnataka (RGUHS) Tier 2
+Rajiv Gandhi University (RGU) Tier 2
+Ranchi University (RU) Tier 2
+Rani Durgavati Vishwavidyalaya Tier 2
+Rani Lakshmi Bai Central Agricultural University Tier 2
+Rashtriya Sanskrit Sansthana, New Delhi Tier 2
+Sam Higginbottom University of Agriculture, Technology and Sciences (SHUATS) Tier 2
+Sampurnanand Sanskrit Vishwavidyalaya Tier 2
+Sardar Vallabhbhai National Institute of Technology (SVNIT) Surat Tier 2
+Saurashtra University Tier 2
+School of Planning and Architecture, Bhopal (SPAB) Tier 2
+School of Planning and Architecture Delhi (SPA New Delhi) Tier 2
+School of Planning and Architecture, Vijayawada (SPA Vijayawada) Tier 2
+Sree Sankaracharya University of Sanskrit (SSUS) Tier 2
+Sri Sathya Sai Institute of Higher Learning Tier 2
+Swami Ramanand Teerth Marathwada University (SRTMU) Tier 2
+Sanjay Gandhi Postgraduate Institute of Medical Sciences Tier 2
+Sant Longowal Institute of Engineering and Technology (SLIET) Tier 2
+Santosh University, Ghaziabad Tier 2
+Sardarkrushinagar Dantiwada Agricultural University (SDAU) Tier 2
+Sharda University Tier 2
+Shoolini University of Biotechnology and Management Sciences, Solan Tier 2
+Shri Jagannath Sanskrit Vishvavidyalaya Tier 2
+Sikkim Manipal University Tier 2
+Sikkim University Tier 2
+Solapur University Tier 2
+S.P. Jain Institute of Management and Research Tier 2
+Sri Devaraj Urs Academy of Higher Education and Research Tier 2
+Sri Krishnadevaraya University Tier 2
+Sri Venkateswara Institute of Medical Sciences (SVIMS) Tier 2
+SRM University (SRM Institute of Science and Technology), Kattankulathur Tier 2
+St. Peter's Institute of Higher Education and Research Tier 2
+Tamil Nadu Agricultural University (TNAU), Coimbatore Tier 2
+Tamil Nadu Dr. M.G.R. Medical University (TNMGRMU) Tier 2
+Tamil Nadu Physical Education and Sports University (TNPESU) Tier 2
+Tamil Nadu Veterinary and Animal Sciences University (TANUVAS) Tier 2
+Tamil University Tier 2
+TERI School of Advanced Studies, New Delhi Tier 2
+Tilak Maharashtra Vidyapeeth (TMV) Tier 2
+Teerthanker Mahaveer University Tier 2
+Telangana University Tier 2
+The NorthCap University (NCU) Tier 2
+The West Bengal National University of Juridical Sciences (WBNUJS or NUJS) Tier 2
+T.M University Tier 2
+Tripura University (TU), Tripura Tier 2
+Tumkur University Tier 2
+U.P King George's University of Dental Science, Lucknow Tier 2
+University of Agricultural Sciences (UAS), Bangalore Tier 2
+University of Allahabad Tier 2
+University of Gour Banga (UGB) Tier 2
+University of Kota Tier 2
+University of Lucknow Tier 2
+University of Petroleum and Energy Studies (UPES) Tier 2
+Veer Bahadur Singh Purvanchal University Tier 2
+Veer Surendra Sai University of Technology (VSSUT) Tier 2
+Vels Institute of Science, Technology & Advanced Studies (VISTAS) Tier 2
+Vidyasagar University Tier 2
+Vinoba Bhave University, Hazaribag Tier 2
+Visva Bharati Tier 2
+Visvesvaraya National Institute of Technology, Nagpur Tier 2
+Visvesvaraya Technological University (VTU), Belagavi Tier 2
+West Bengal University of Animal and Fishery Sciences Tier 2
+Yogi Vemana University (YVU) Tier 2
+Abhilashi University Tier 3
+Adamas University Tier 3
+Adesh University Tier 3
+Adikavi Nannaya University Tier 3
+Ahmedabad University Tier 3
+AISECT University, Bhopal Tier 3
+AISPECT University, Hazaribagh Tier 3
+Ajeenkya DY Patil University Tier 3
+Akal University (Guru Ki Kashi Akal University ) Tier 3
+AKS University (AKSU), Satna Tier 3
+Alak Prakash Goyal University Tier 3
+Al-Falah University Tier 3
+Aliah University Tier 3
+Allahabad State University Tier 3
+Alliance University, Bangalore Tier 3
+Amity University, Gwalior Tier 3
+Amity University, Manesar Tier 3
+Amity University, Mumbai Tier 3
+Amity University Patna Tier 3
+Amity University, Rajarhat Tier 3
+Amity University, Ranchi Tier 3
+Amity University, Tehsil -Tilda Tier 3
+Anant National University Tier 3
+Apeejay Stya University (ASU) Tier 3
+Ansal University, Guraon Tier 3
+Apex Professional University (APU) Tier 3
+APJ Abdul Kalam Technological University Tier 3
+Arka Jain University Tier 3
+Arni University Tier 3
+Arunachal University of Studies Tier 3
+Arunodaya University Tier 3
+Aryabhatta Knowledge University (AKU) Tier 3
+Ashoka University Tier 3
+Assam Down Town University Tier 3
+Assam Rajiv Gandhi University of Co-operative Management (ARGUCOM) Tier 3
+Assam Science and Technology University Tier 3
+Assam Women's University Tier 3
+AURO University of Hospitality and Management, Surat Tier 3
+Avantika University Tier 3
+Azim Premji University Tier 3
+Ayush and Health Sciences University of Chharrisgarh, Raipur Tier 3
+Baba Farid University of Health Sciences Tier 3
+Baba Ghulam Shah Badshah University Tier 3
+Baba Mastnath University (BMU) Tier 3
+Babu Banarasi Das University Tier 3
+Baddi University of Emerging Sciences and Technology Tier 3
+Bahra University Tier 3
+Banda University of Agriculture and Technology (BUAT) Tier 3
+Bankura University Tier 3
+Bareilly International University (BIU) Tier 3
+Bastar Vishwavidyalaya (BVV) Tier 3
+Bengaluru Central University Tier 3
+Bengaluru North University (BNU) Tier 3
+Bennett University Tier 3
+Bhagat Phool Singh Mahila Vishwavidyalaya Tier 3
+Bhagwant Global University Tier 3
+Bhagwant University Tier 3
+Bhakta Kavi Narsinh Mehta University (BKNMU) Tier 3
+Bhartiya Skill Development University Tier 3
+Bhatkhande Music Institute, Lucknow Tier 3
+Bhupal Nobles University (BN University) Tier 3
+Bhupendra Narayan Mandal University (B. N. Mandal University) Tier 3
+Bihar Agricultural University Tier 3
+Bihar Yoga Bharati Tier 3
+Biju Patnaik University of Technology (BPUT) Tier 3
+Bilaspur Vishwavidyala, Bilaspur Tier 3
+Birla Global University (BGU) Tier 3
+Birla Institute of Technology (BIT Mesra) Tier 3
+BML Munjal University Tier 3
+Bodoland University Tier 3
+Brainware University Tier 3
+Calorx Teacher's University, Ahmedabad Tier 3
+Career Point University, Kota (CPU) Tier 3
+Career Pont University, Hamripur Tier 3
+Central Institute of Buddhist Studies, Ladakh Tier 3
+Centre for Enviromental Planning and Technology University Tier 3
+Centurion University of Technology and Management, Visakhapatnam Tier 3
+Chanakya National Law University (CNLU) Tier 3
+Chandigarh University (CU) Tier 3
+Chandra Shekhar Azad University of Agriculture & Technology, Kanpur (CSAUA&T) Tier 3
+Chaudhary Bansi Lal University (CBLU) Tier 3
+Chaudhary Ranbir Singh University, Jind (CRSU) Tier 3
+Chhattisgarh Kamdhenu Vishwasvidyalaya, Raipur Tier 3
+Chhattisgarh Swami Vivekanand Technical University (CSVTU) Tier 3
+Children's University Tier 3
+Chinmaya Vishwavidyapeeth (CVV) Tier 3
+Chitkara University, Tehsil Rajpura Tier 3
+Cluster University of Jammu (CLUJ) Tier 3
+Cluster University of Srinagar Tier 3
+CMR University (CMRU) Tier 3
+Cooch Behar Panchanan Barma University (CBPBU) Tier 3
+Cotton Colllege State University, Guwahati Tier 3
+CT University Tier 3
+C. U. Shah University Tier 3
+Damodaram Sanjivayya National Law University Tier 3
+DAV University Tier 3
+Dayananda Sagar University Tier 3
+Delhi Pharmaceutical Sciences and Research University (DIPSAR) Tier 3
+Delhi Technological University (DTU) Tier 3
+Desh Bhagat University (DBU) Tier 3
+Diamond Harbour Women's University Tier 3
+DIT University Tier 3
+Dr. A.P.J. Abdul Kalam University Tier 3
+Dravidian University Tier 3
+Dr. Babasaheb Ambedkar Open University Tier 3
+Dr. Balasaheb Sawant Konkan Krishi Vidyapeeth, Dapoli Tier 3
+Dr. Bhimrao Ambedkar Law University (ALU Jaipur) Tier 3
+Dr. B.R. Ambedkar Open University Tier 3
+Dr. B. R. Ambedkar University of Social Sciences (BRAUSS) Tier 3
+Dr. B. R. Ambedkar University, Srikakulam Tier 3
+Dr. K.N. Modi University (DKNMU) Tier 3
+Dr. Panjabrao Deshmukh Krishi Vidyapeeth (PDKV or PKV) Tier 3
+Dr. Ram Manohar Lohia Avadh University Tier 3
+Dr. Ram Manohar Lohiya National Law University (RMLNLU) Tier 3
+Dr. Vishwanath Karad MIT World Peace University Tier 3
+Dr. Y.S.R. Horticultural University Tier 3
+D.Y. Patil Education Society, Kolhapur Tier 3
+Durg Vishwavidyalaya, Durg Tier 3
+Era University Tier 3
+Eternal University Tier 3
+FLAME University Tier 3
+Galgotias University Tier 3
+Gangadhar Meher University Tier 3
+Ganpat University (GUNI) Tier 3
+Garden City University Tier 3
+Gautam Buddha Technical University Tier 3
+Gautam Buddha University (GBU) Tier 3
+GD Goenka University (GDGU) Tier 3
+Geetanjali University (GU) Tier 3
+G.H. Raisoni University Tier 3
+GLS University Tier 3
+GNA University (GU) Tier 3
+Gondwana University Tier 3
+Govind Ballabh Pant University of Agriculture and Technology, Pantnagar Tier 3
+Govind Guru Tribal University Tier 3
+Graphic Era Parvatiya Vishwavidyalaya Tier 3
+GSFC University Tier 3
+Gujarat Technological University (GTU) Tier 3
+Gujarat Agricultural University Tier 3
+Gujarat University of Transplantation Sciences (GUTS) Tier 3
+Guru Kashi University (GKU) Tier 3
+Guru Ravidas Ayurved University Tier 3
+Gurugram University Tier 3
+Harcourt Butler Technical University (HBTU) Tier 3
+Haridev Joshi University of Journalism and Mass Communication (HJU) Tier 3
+Haryana Vishwakarma Skill University Tier 3
+Hemwati Nandan Bahuguna Uttarakhand Medical Education University, Dehradun ((HNBUMU) Tier 3
+Hidayatullah National Law University (HNLU) Tier 3
+Himachal Pradesh National Law University (HPNLU Shimla) Tier 3
+Himachal Pradesh Technical University Tier 3
+Himalayan Garhwal University (HGU) Tier 3
+Himalayan University Tier 3
+Himgiri Nabh Vishwavidyalaya Tier 3
+Homoeopathy University Tier 3
+ICFAI University, Jaipur Tier 3
+ICFAI University, Kumhari Tier 3
+IIHMR University (Indian Institute of Health management Research IIHMR) Tier 3
+IIMT University (IIMTU), Meerut Tier 3
+IMS Unison University (IUU) Tier 3
+India Education Centre University Tier 3
+Indian Institute of Public Health - Gandhinagar Tier 3
+Indian Institute of Space Science and Technology (IIST) Tier 3
+Indian Institute of Teacher Education (IITE) Tier 3
+Indira Gandhi Delhi Technical University for Women (IGDTUW) Tier 3
+Indira Gandhi Institute of Medical Sciences Tier 3
+Indira Gandhi Krishi Vishwavidyalaya, Raipur ((IGKV) Tier 3
+Indira Gandhi Technological and Medical Science University (IGTAMSU) Tier 3
+Indira Gandhi University Tier 3
+Indrashil University Tier 3
+Indus International University (IIU) Tier 3
+Indus University Tier 3
+Institute of Advanced Research (IAR), Gandhinagar Tier 3
+Institute of Advanced Studies in Education (IASE) Deemed University Tier 3
+Institute of Chartered Financial Analysts of India (ICFAI) University, Dehradun Tier 3
+Institute of Chartered Financial Analysts of India (ICFAI) University, Dimapur Tier 3
+Institute of Chartered Financial Analysts of India (ICFAI) University, Gangtok, Sikkim Tier 3
+Institute of Trans-Disciplinary Health Sciences and Technology Tier 3
+Institute of Infrastructure Technology Research and Management (IITRAM) Tier 3
+International Institute of Information Technology, Bhubaneswar Tier 3
+International Institute of Information Technology, Naya Raipur Tier 3
+Invertis University Tier 3
+ISBM University Tier 3
+ITM University, Gwalior Tier 3
+ITM University, Raipur Tier 3
+ITM Vocational University Tier 3
+Jagadguru Ramanandacharya Rajasthan Sanskrit University Tier 3
+Jagadguru Rambhadracharya Handicapped University (JRHU) Tier 3
+Jagadguru Sri Shivarathreeshwara University, Mysore Tier 3
